@@ -1,12 +1,4 @@
-// TODO: write code here
+import GamePlay from './GamePlay';
 
-// comment this to pass build
-// const unusedVariable = 'variable';
-
-// for demonstration purpose only
-export default function demo(value) {
-  return value;
-}
-
-// eslint-disable-next-line no-console
-console.log('app.js included');
+const gamePlay = new GamePlay();
+gamePlay.startGame();
