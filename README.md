@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/k4m3wpib8h6pxph2?svg=true)](https://ci.appveyor.com/project/a-naraikin/netology-ahj-homeworks-dom-moving-an-element)
 
-## [веб-сайт](...)
+## [веб-сайт](https://a-naraikin.github.io/netology_ahj-homeworks_dom_moving-an-element/)
 
 ## Домашняя работа «DOM: Перемещение элемента»
 
