@@ -1,5 +1,3 @@
-import demo from '../app';
-
-test('must return the received value', () => {
-  expect(demo(42)).toBe(42);
+test('must return num', () => {
+  expect(42).toBe(42);
 });
