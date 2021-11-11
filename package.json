@@ -1,5 +1,5 @@
 {
-  "name": "netology_ahj-homeworks_dom_moving-an-element",
+  "name": "netology_ahj-homeworks_events_game-with_goblins",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -43,5 +43,5 @@
   "dependencies": {
     "core-js": "^3.6.0"
   },
-  "repository": "https://github.com/a-naraikin/netology_ahj-homeworks_dom_moving-an-element.git"
+  "repository": "https://github.com/a-naraikin/netology_ahj-homeworks_events_game-with-goblins.git"
 }
