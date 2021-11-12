@@ -90,3 +90,7 @@ button:active {
     border-radius: 15px;
     opacity: 0.7;
 }
+
+.cursor_hammer {
+    cursor: url(../img/cursor_hummer.png), auto;
+}
