@@ -15,7 +15,7 @@
 }
 
 .field {
-    background-color: #F6E66A;
+    background-color: #1E5447;
     border-radius: 14px;
     cursor: pointer;
     color: #fff;
@@ -26,10 +26,67 @@
     font-family: 'Arial', sans-serif;
 }
 
-.free {
+.sprite {
     background-image: url(../img/goblin.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain;
-    background-color: #3d4250;
+    background-color: #032921;
+}
+
+.sprite:hover {
+    background-color: #032921;
+}
+
+#modal {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+#modal__window {
+    position: relative;
+    top: 30%;
+    width: 30%;
+    margin: 0 auto;
+    padding: 5px 20px 20px;
+    background-color: #f8f6f6;
+    text-align: center;
+}
+
+.panel {
+    text-align: center;
+}
+
+button {
+    min-width: 100px;
+    border: 1px solid lightgray;
+    padding: 15px;
+    background-color: #fff;
+    font-size: 20pt;
+    border-radius: 15px;
+    opacity: 0.7;
+}
+
+button:hover {
+    box-shadow: 2px 1px 0 rgb(0, 0, 0);
+}
+
+button:active {
+    box-shadow: inset 2px 1px 0;
+}
+
+.hidden {
+    display: none;
+}
+
+.status {
+    padding: 15px;
+    background-color: #fff;
+    font-size: 20pt;
+    border-radius: 15px;
+    opacity: 0.7;
 }
