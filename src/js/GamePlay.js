@@ -34,8 +34,6 @@ export default class GamePlay {
     for (let i = 0; i < fields.length; i++) {
       fields[i].addEventListener('click', () => {
         if (fields[i].classList.contains('sprite')) {
-          fields[i].classList.add('cursor_hammer');
-          setTimeout(() => fields[i].classList.remove('cursor_hammer'), 1000);
           fields[i].classList.remove('sprite');
           this.countDead.textContent = +this.countDead.textContent + 1;
         } else {

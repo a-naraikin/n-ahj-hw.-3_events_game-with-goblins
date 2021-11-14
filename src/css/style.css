@@ -17,7 +17,7 @@
 .field {
     background-color: #1E5447;
     border-radius: 14px;
-    cursor: pointer;
+    cursor: url(../img/cursor_hummer.png), auto;
     color: #fff;
     display: flex;
     justify-content: center;
@@ -89,8 +89,4 @@ button:active {
     font-size: 20pt;
     border-radius: 15px;
     opacity: 0.7;
-}
-
-.cursor_hammer {
-    cursor: url(../img/cursor_hummer.png), auto;
 }
