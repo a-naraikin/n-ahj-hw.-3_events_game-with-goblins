@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/p66o1l7qdsgxi1rq?svg=true)](https://ci.appveyor.com/project/a-naraikin/netology-ahj-homeworks-events-game-with-goblins)
 
-## [веб-сайт](https://a-naraikin.github.io/netology_ahj-homeworks_events_game-with-goblins/)
+#### [Ссылка на Github Pages](https://a-naraikin.github.io/n-ahj-hw.-3_events_game-with-goblins/)
 
 ## Домашняя работа «Обработка событий: Игра с гоблинами»
 
